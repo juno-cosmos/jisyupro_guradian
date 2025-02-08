@@ -8,6 +8,7 @@
 
 『ゼルダの伝説 Breath of the Wild』の「ガーディアン」を模倣したロボット
 
+"ぐらでぃあん"ではない(typo)
 ## ディレクトリ構造
 (まだ整理途中)
 * 全体アセンブリは<code>gen2_jisyupro_guardian.sdasm</code>
