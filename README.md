@@ -12,5 +12,5 @@
 ## ディレクトリ構造
 (まだ整理途中)
 * 全体アセンブリは<code>gen2_jisyupro_guardian.sdasm</code>
-* <code>gen1_leg-continum</code>および<code>gen2_leg-continum</code>にそれぞれ試作機, 発表会時の脚アセンブリが入っている
+* <code>gen1_leg-continum</code>および<code>gen2_leg-continum</code>にそれぞれ試作機, 2号機時の脚アセンブリが入っている
 * その他の主なパーツは現在親ディレクトリ内に入っている
